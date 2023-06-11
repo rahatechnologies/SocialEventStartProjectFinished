@@ -1,0 +1,15 @@
+/* @media (min-width: 600px) {
+  body {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 2em;
+  }
+}
+
+img {
+  width: 100%;
+} */
+audio {
+    width: 50%;
+    /* height: 54px; */
+}
